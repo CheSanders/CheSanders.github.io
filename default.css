@@ -1,0 +1,45 @@
+header {
+  font-size: 20px;
+  font-color: blue;
+ text-align: center;
+}
+
+html {
+ background-color: silver;
+}
+
+.first {
+ display:block;
+ font-size: 16px
+}
+
+body {
+ color: #000080 ;
+}
+
+a:link {
+ color: #800080 ;
+}a:visited {
+ color: #FF0000 ;
+
+}body {
+ font-size: 18px;
+} 
+
+h3 {
+ font-size: 20px;
+ font-weight: bold;
+ text-align: center;
+}
+
+footer {
+ font-size: :10px;
+}.fifth {
+ font-size: 15px;
+
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
